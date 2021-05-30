@@ -1,58 +1,37 @@
-# Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Project «Mishka» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Георгий Найфонов](https://up.htmlacademy.ru/adaptive/21/user/1035371).
-* Наставник: [Артур Трифонов](https://htmlacademy.ru/profile/wrgraff).
+* Student: [George Nayfonov](https://github.com/greco-code).
+* Mentor: [Arthur Trifonov](https://github.com/wrgraff).
+* Build: [Click here](https://mishka-online.netlify.app/) 
 
----
 
-**Обратите внимание, что папка с вашими исходными файлами — `source/`.**
+### Pages: 
+- [Main](https://mishka-online.netlify.app/)
+- [Catalog](https://mishka-online.netlify.app/catalog.html)
+- [Form](https://mishka-online.netlify.app/form.html)
 
-Полезный файл:
+### About: 
+- HTML, SCSS
+- Adaptive website 
+- Gulp
+- Vanilla JavaScript
 
-- [Contributing.md](Contributing.md) — руководство по внесению изменений.
+### Commands
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `.travis.yml`, `package-lock.json`, `package.json`._
+`npm start`  
+Runs dev-server ([http://localhost:3000](http://localhost:3000) by default)
 
----
+`npm test`  
+Runs stylelint and editorconfig
 
-### Памятка
+`npm run build`  
+Builds project
 
-#### 1. Зарегистрируйтесь на Гитхабе
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+<br>
 
-#### 2. Создайте форк
-
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-adaptive/1035371-mishka-21) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808189-541c1580-a190-11e9-8c4c-459d9c0f22f5.jpg">
-
-Получится вот так:
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808191-54b4ac00-a190-11e9-92f8-ca77249661c3.jpg">
-
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
-
-<img width="800" alt="" src="https://user-images.githubusercontent.com/10909/60808192-54b4ac00-a190-11e9-804e-4565b5bd699c.jpg">
-
-Клонировать репозиторий можно так:
-
-```
-git clone SSH-адрес_вашего_форка
-```
-
-Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
-
----
-
+This repo was created for studying in [HTML Academy](https://htmlacademy.ru/intensive/adaptive)
 <a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
-
-Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Адаптивная вёрстка и автоматизация](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
 [travis-image]: https://travis-ci.com/htmlacademy-adaptive/1035371-mishka-21.svg?branch=master
 [travis-url]: https://travis-ci.com/htmlacademy-adaptive/1035371-mishka-21
