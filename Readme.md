@@ -1,4 +1,4 @@
-# Project «Mishka» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Project «Mishka»
 
 * Student: [George Nayfonov](https://github.com/greco-code).
 * Mentor: [Arthur Trifonov](https://github.com/wrgraff).
@@ -33,7 +33,3 @@ Builds project
 This repo was created for studying in [HTML Academy](https://htmlacademy.ru/intensive/adaptive)
 <a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
 
-[travis-image]: https://travis-ci.com/htmlacademy-adaptive/1035371-mishka-21.svg?branch=master
-[travis-url]: https://travis-ci.com/htmlacademy-adaptive/1035371-mishka-21
-[dependency-image]: https://david-dm.org/htmlacademy-adaptive/1035371-mishka-21/dev-status.svg?style=flat-square
-[dependency-url]: https://david-dm.org/htmlacademy-adaptive/1035371-mishka-21?type=dev
