@@ -22,7 +22,7 @@
     "postcss": "8.2.10",
     "prettier": "^2.1.2",
     "prettier-stylelint": "^0.4.2",
-    "stylelint": "^13.8.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-htmlacademy": "^0.1.4"
   },
   "scripts": {
